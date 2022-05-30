@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = alexjohnwade@gmail.com
+	name = Alex Wade
